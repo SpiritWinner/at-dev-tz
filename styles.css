@@ -222,12 +222,12 @@ header nav ul li a.btn:hover {
   align-items: center;
 }
 .membership-plan__list__item.darks::before {
-  content: url(/check-mark-li.svg);
+  content: url(check-mark-li.svg);
   margin-right: 10px;
   filter: brightness(0) saturate(100%) invert(17%) sepia(22%) saturate(1985%) hue-rotate(179deg) brightness(93%) contrast(100%);
 }
 .membership-plan__list__item::before {
-  content: url(/check-mark-li.svg);
+  content: url(check-mark-li.svg);
   margin-right: 10px;
 }
 
